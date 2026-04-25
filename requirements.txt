@@ -1,4 +1,7 @@
-fastapi
-uvicorn
-httpx
-Pillow
+flask
+flask-cors
+requests
+cachetools
+pycryptodome
+pillow
+protobuf
